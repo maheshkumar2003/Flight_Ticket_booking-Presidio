@@ -1,8 +1,7 @@
 # Flight-Ticket-booking-with-php-css-html
-This is a Flight  booking System .This System's frontend contains HTML , CSS , JAVA SCRIPT and Backend contains PHP. This System contains two section User part and Admin part. User can book available seats ticket in airlines.Admin can add or delete airlines,flights,cities .
+This is a Flight ticket booking System. This System's frontend contains HTML, CSS, and JAVA SCRIPT and the Backend contains PHP. This System contains two sections: The user part and the Admin part. Users can book available seat tickets on airlines. Admin can add or delete airlines, flights, and cities.
 
 Website Link :https://flight-ticket-booking.000webhostapp.com/
-
 
 Database Name: id20979963_database_for_ftb
 Username: id20979963_root
@@ -10,6 +9,6 @@ Password: Mahesh@1234
 
 
                             ADMIN DETAILS
-                        Name:Mahesh
-                        Password:MAhesh@1234
-FOR PASSENGER LOGIN: Registration method are enabled.
+                        Name: Mahesh
+                        Password: Mahesh@1234
+FOR PASSENGER LOGIN: Registration methods are enabled.
